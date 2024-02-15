@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile! ![image](https://github.com/Suhrullekha/Suhrullekha/assets/46695453/90087bd1-9b91-4353-ae28-0114ea68893e)
+
+I'm Suhrullekha Cheekati, a passionate and driven final year Computer Engineering student with a knack for turning challenges into valuable learning experiences. With a strong foundation in various programming languages such as Python, Java and JavaScript, I'm constantly expanding my skill set through hands-on projects and competitions.
+
+🌱 Throughout my journey, I've honed my problem-solving and collaborative skills, serving as an executive in over five competitions and actively contributing to seven others. From developing software applications for Loblaw Companies Limited to crafting immersive educational experiences like Circuit Craft, I thrive on pushing the boundaries of technology.
+
+Explore my repositories to discover my projects, ranging from full-stack projects to augmented reality web apps. Let's connect, collaborate, and innovate together! 📫
+
+
 
 <!--
 **Suhrullekha/Suhrullekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
